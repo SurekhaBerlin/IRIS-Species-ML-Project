@@ -1,7 +1,8 @@
 # IRIS-Species-ML-Project
 
 
-iris.jpeg
+![image](https://github.com/user-attachments/assets/de8dc5e6-7419-4dba-9464-0fb34f3a4676)
+
 
 
 
